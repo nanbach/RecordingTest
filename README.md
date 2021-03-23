@@ -1,5 +1,2 @@
 # RecordingTest
-Record using VLCsharp library
-
-
-
+Record using VLCsharp librarys
